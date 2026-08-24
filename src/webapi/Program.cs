@@ -1,4 +1,4 @@
-// CI/CD PR test
+// CI/CD PR ruleset test
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
